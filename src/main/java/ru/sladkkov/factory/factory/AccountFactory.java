@@ -1,8 +1,8 @@
-package ru.sladkkov.factory;
+package ru.sladkkov.factory.factory;
 
-import ru.sladkkov.factory.impl.FreeAccountFactory;
-import ru.sladkkov.factory.impl.PaidAccountFactory;
-import ru.sladkkov.model.Account;
+import ru.sladkkov.factory.factory.impl.FreeAccountFactory;
+import ru.sladkkov.factory.factory.impl.PaidAccountFactory;
+import ru.sladkkov.factory.model.Account;
 
 public interface AccountFactory {
 

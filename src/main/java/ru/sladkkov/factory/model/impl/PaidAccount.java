@@ -1,6 +1,6 @@
-package ru.sladkkov.model.impl;
+package ru.sladkkov.factory.model.impl;
 
-import ru.sladkkov.model.Account;
+import ru.sladkkov.factory.model.Account;
 
 public class PaidAccount implements Account {
 
