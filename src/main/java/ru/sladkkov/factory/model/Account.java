@@ -1,4 +1,4 @@
-package ru.sladkkov.model;
+package ru.sladkkov.factory.model;
 
 public interface Account {
     String getAccountType();
